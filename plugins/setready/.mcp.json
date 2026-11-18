@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "setready": {
+      "type": "http",
+      "url": "https://setready.us/mcp"
+    }
+  }
+}
