@@ -1,6 +1,7 @@
 {
   "name": "setready",
-  "version": "0.1.1",
+  "displayName": "SetReady",
+  "version": "0.1.2",
   "description": "Free agent skills for land-home buyers and investors: test a land deal, then plan the home, the site, the permits and the budget. Includes the SetReady connector for finding pros in seven Southeast states.",
   "author": {
     "name": "SetReady",
@@ -20,5 +21,6 @@
   "icon": "./logo.png",
   "documentationUrl": "https://setready.us/skills",
   "privacyPolicyUrl": "https://setready.us/privacy",
-  "termsOfServiceUrl": "https://setready.us/terms"
+  "termsOfServiceUrl": "https://setready.us/terms",
+  "supportUrl": "https://github.com/s10mcow/setready-skills/issues"
 }
