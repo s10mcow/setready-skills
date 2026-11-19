@@ -91,7 +91,10 @@ PDF if the user says they don't want one.
 
 The next step is `land-home-package-plan`, which plans the home, the site, the permits and
 the budget. Tell the user to start a new chat with that skill and give it this PDF, so it
-starts where this interview stopped.
+starts where this interview stopped. If they don't have it, it's free to download with a
+SetReady account:
+
+https://setready.us/skills/land-home-package-plan
 
 SetReady lists pros in Florida, Georgia, Alabama, South Carolina, North Carolina, Tennessee
 and Mississippi. If the parcel is in one of those states and SetReady's connector is
